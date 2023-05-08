@@ -4,13 +4,13 @@
   "bio": "Web Dev | Community | Open Source Enthusiast!",
   "tags": ["Open Source", "Content Writer", "Blogging", "Community", "Web3"],
 
-  "links": [
+  "my links": [
     {
-      "name": "Follow me on GitHub",
-      "url": "https://github.com/maharshi-sinha",
-      "icon": "FaGithub"
+      "name": "Check out my website",
+      "url": "https://maharshi-sinha.github.io/portfolio-site/",
+      "icon": "FaGlobe"
     },
-    {
+     {
       "name": "Follow me on Twitter",
       "url": "https://twitter.com/sinha_maharshi",
       "icon": "FaTwitter"
@@ -21,14 +21,24 @@
       "icon": "FaLinkedin"
     },
     {
+      "name": "Community's Discord link",
+      "url": "https://discord.com/invite/WXpVmRVnzQ",
+      "icon": "SiDiscord"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/maharshi-sinha",
+      "icon": "FaGithub"
+    },
+    {
       "name": "Read my blogs on Hashnode",
       "url": "https://maharshisinha.hashnode.dev",
       "icon": "SiHashnode"
     },
     {
-      "name": "Check out my website",
-      "url": "https://maharshi-sinha.github.io/portfolio-site/",
-      "icon": "FaGlobe"
+     "name": "Support my journey",
+      "url": "https://www.buymeacoffee.com/maharshisinha",
+      "icon": "SiBuymeacoffee"
     }
   ],
   "milestones": [
