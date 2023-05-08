@@ -1,22 +1,15 @@
 {
   "name": "Sheriff Oladimeji",
   "type": "personal",
-  "bio": "Software DEveloper • Technical Writer • Open Source Contributor",
+  "bio": "Software Developer||Technical Writer||Open Source Contributor",
 
-  "tags": [
-    "Open Source",
-    "Javascript",
-    "React",
-    "NextJS",
-    "Tailwind"
-  ],
+  "tags": ["Open Source", "Javascript", "React", "NextJS", "Tailwind"],
   "socials": [
-  
     { "icon": "FaTwitter", "url": "https://twitter.com/sheriffWebDev" },
     { "icon": "FaGithub", "url": "https://github.com/Sheriff-Oladimeji" }
-    ],
-   "links": [
-   {
+  ],
+  "links": [
+    {
       "group": "Socials Primary",
       "name": "Twitter: Follow me",
       "url": "https://twitter.com/sheriffWebDev",
@@ -36,5 +29,4 @@
       "icon": "FaLinkedin"
     }
   ]
-  
 }
